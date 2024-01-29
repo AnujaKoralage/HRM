@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktemplate=self.webpackChunktemplate||[]).push([[841],{4841:(C,m,r)=>{r.d(m,{r4:()=>F}),r(5879),r(4643),r(8337);var y=r(9538);class F extends y._4{}}}]);
